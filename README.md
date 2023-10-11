@@ -6,6 +6,6 @@ Assignment 1.2 Health Declaration form
   - can fill survey
     
 3.Admin can fill survey and manage data
-Admin login credentials as follows
+Admin login credentials
 Email : superadmin@gmail.com
 Password : 123Pa$$word!
